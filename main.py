@@ -28,7 +28,7 @@ from dotenv import load_dotenv
 #k_spider\tags.csv
 
 #记录日志
-logger.add("k_spider\log\main_log_v1.4.3.log")
+logger.add("k_spider\log\main_log.log")
 
 ##k站主页
 host="https://konachan.com"
